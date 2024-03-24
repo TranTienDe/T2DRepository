@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.WebApi", "NetCore.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Shared", "NetCore.Shared\NetCore.Shared.csproj", "{3024BC26-5067-4CF1-9F15-CD067F67C14F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Doc", "NetCore.Doc", "{3B7CF247-51A7-49A3-A18D-F9759BD68BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
