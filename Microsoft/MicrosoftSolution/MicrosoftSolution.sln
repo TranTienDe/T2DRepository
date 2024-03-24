@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.WinForm", "Net
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetFramework.Doc", "NetFramework.Doc", "{9D1E0962-BD51-4E42-B567-123CF1D2CEFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.WebApi", "NetFramework.WebApi\NetFramework.WebApi.csproj", "{A9EB709F-AE62-4F27-AA3E-B09D74E82C21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EB709F-AE62-4F27-AA3E-B09D74E82C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EB709F-AE62-4F27-AA3E-B09D74E82C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EB709F-AE62-4F27-AA3E-B09D74E82C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EB709F-AE62-4F27-AA3E-B09D74E82C21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
