@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Doc", "NetCore.Doc"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.WinForm", "NetFramework.WinForm\NetFramework.WinForm.csproj", "{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetFramework.Doc", "NetFramework.Doc", "{9D1E0962-BD51-4E42-B567-123CF1D2CEFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
