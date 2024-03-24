@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Shared", "NetCore.S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Doc", "NetCore.Doc", "{3B7CF247-51A7-49A3-A18D-F9759BD68BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.WindowsForm", "NetFramework.WindowsForm\NetFramework.WindowsForm.csproj", "{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.WinForm", "NetFramework.WinForm\NetFramework.WinForm.csproj", "{BD77463D-7D9E-48BB-8AD6-F7B346D9D05F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
